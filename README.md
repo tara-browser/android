@@ -1,0 +1,2 @@
+# android
+Tara Browser Android
